@@ -1,1 +1,1 @@
-# Neutral-Networks-Learning
+# Neural-Networks-Learning
