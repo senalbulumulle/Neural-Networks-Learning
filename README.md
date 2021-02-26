@@ -19,7 +19,7 @@ Table of Contents
 
 
 # Introduction
-This Booklet shows you how to install the dependencies that are required for the UNF ARIO Workshop that is regarded on Neural Networks Learning.  The recommendations and dependencies are displayed on the next page. You can also use the “installation.sh” file that is provided in the Neural-Networks-Learning repository to auto install the dependencies that are required for the workshop.
+This Booklet shows you how to install the dependencies that are required for the UNF AIRO Workshop that is regarded on Neural Networks Learning.  The recommendations and dependencies are displayed on the next page. You can also use the “installation.sh” file that is provided in the Neural-Networks-Learning repository to auto install the dependencies that are required for the workshop.
 
 
 
